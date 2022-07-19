@@ -3,5 +3,5 @@ Dice Calculator is a simple calculator for expressions that includes dice, for g
 
 ## To-do
 - Whole frontend
-- Operation like (2d4)d4 must be handled
+- Expressions like (2d4)d4 must be handled
 - Expression vaidation
